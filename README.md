@@ -2,7 +2,7 @@
 
 I enjoy building fun stuff with ✨ **Laravel** and **VueJS** (with TypeScript) ✨ and sometimes React 😕
 
-I think ApolloGraphQL is fucking hard!
+I think Apollo GraphQL is fucking hard!
 
 
 <!---
