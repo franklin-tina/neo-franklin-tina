@@ -1,8 +1,6 @@
-👋 Hey, Franklin here.
+Yo, what's up?.
 
-I enjoy building fun stuff with ✨ **Laravel** and **VueJS** (with TypeScript) ✨ and sometimes React 😕
-
-I think Apollo GraphQL is fucking hard!
+I love ✨**Laravel**✨ and ✨**VueJS**✨
 
 
 <!---
