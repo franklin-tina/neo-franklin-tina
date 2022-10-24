@@ -1,6 +1,6 @@
 Yo, what's up?.
 
-I love ✨**Laravel**✨ and ✨**VueJS**✨
+I talk ✨**Laravel**✨ and ✨**VueJS**✨
 
 
 <!---
